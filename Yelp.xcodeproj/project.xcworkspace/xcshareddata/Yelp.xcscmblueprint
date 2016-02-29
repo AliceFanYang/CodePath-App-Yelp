@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0C1B8B8152ECCFD20C43FE322B2061A754ECE3C1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0C1B8B8152ECCFD20C43FE322B2061A754ECE3C1" : 0,
+    "978052649186A4E59AC3E64481FDC004F942CDBD" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "27F27EA6-09AD-4DF8-9572-2272CB1F7428",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0C1B8B8152ECCFD20C43FE322B2061A754ECE3C1" : "CodePath\/",
+    "978052649186A4E59AC3E64481FDC004F942CDBD" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Yelp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "setup_downloads\/ios_yelp_swift-master\/Yelp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:AliceFanYang\/CodePath-Yelp-App.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0C1B8B8152ECCFD20C43FE322B2061A754ECE3C1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:AliceFanYang\/test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "978052649186A4E59AC3E64481FDC004F942CDBD"
+    }
+  ]
+}
